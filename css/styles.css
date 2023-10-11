@@ -86,8 +86,16 @@ body {
   background-color: #404bbf;
 }
 
+.section-team {
+  background-color: #f4f4fd;
+  color: #2e2f42;
+}
+
+.list content {
+  background-color: #ffffff;
+}
+
 .secondary-title {
-  font-family: Roboto;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -95,16 +103,6 @@ body {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-}
-
-.list content {
-  background-color: #ffffff;
-}
-.section-team {
-  background-color: #f4f4fd;
-}
-.images-content {
-  background-color: #ffffff;
 }
 
 .additional-title {
