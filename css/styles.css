@@ -2,7 +2,7 @@
   list-style-type: none;
 }
 
-.nav-link {
+.link {
   text-decoration: none;
 }
 
@@ -14,7 +14,7 @@ button {
   cursor: pointer;
 }
 
-.logo-link-header {
+.logotype {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -24,7 +24,7 @@ button {
   color: #4d5ae5;
 }
 
-span {
+.logotype-span {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
@@ -32,7 +32,7 @@ span {
   letter-spacing: 0.03em;
   color: #2e2f42;
 }
-.nav-link {
+.menu-link {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 500;
@@ -41,8 +41,8 @@ span {
   color: #2e2f42;
 }
 
-.nav-link:hover,
-.nav-link:focus {
+.menu-link:hover,
+.menu-link:focus {
   color: #404bbf;
 }
 
@@ -84,7 +84,7 @@ body {
   color: #ffffff;
 }
 
-.button {
+.order-service-btn {
   color: #ffffff;
   background-color: #4d5ae5;
   line-height: 1.5;
@@ -95,18 +95,18 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-.button:hover,
-.button:focus {
+.order-service-btn:hover,
+.order-service-btn:focus {
   color: #ffffff;
   background-color: #404bbf;
 }
 
-.section-team {
+.section-three {
   background-color: #f4f4fd;
   color: #2e2f42;
 }
 
-.list-content {
+.team-list-item {
   background-color: #ffffff;
 }
 
